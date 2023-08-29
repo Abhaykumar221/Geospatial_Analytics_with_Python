@@ -13,7 +13,7 @@
 5. Geographic CRS, in particular the WGS84/EPSG:4326, are very commonly used for mapping. Locations on the Earth’s surface are defined by their latitude and longitude (sometimes also by their altitude), telling you exactly where they lie. Geographic CRS are global coordinate systems that cover the whole globe.
 
 
-We have used data taken from (https://geodacenter.github.io/)
+# We have used data taken from (https://geodacenter.github.io/)
 1. The [Chicago health and socioeconomic statistics](https://geodacenter.github.io/data-and-lab/comarea_vars/) dataset covers public health and socio-economic indicators for the 77 community areas (i.e. neighbourhoods) of Chicago in 2014. 
 2. The [Chicago supermarkets](https://geodacenter.github.io/data-and-lab/chicago_sup_vars/) data shows all grocery stores across Chicago in 2015 (scraped from Google Maps).
 These two data sets are used in file 2 (i.e. Manipulation2.ipynb).
