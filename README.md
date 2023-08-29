@@ -1,1 +1,1 @@
-# Geospatial_Data_Visualization_with_Python
+# Geospatial_Analytics_with_python
